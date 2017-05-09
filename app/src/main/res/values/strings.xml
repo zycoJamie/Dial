@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallPhone</string>
+    <string name="Main_activity">拨号助手</string>
+</resources>
